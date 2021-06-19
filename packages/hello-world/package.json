@@ -1,0 +1,32 @@
+{
+  "name": "@cec/hello-world",
+  "version": "0.0.0",
+  "description": "hello world",
+  "keywords": [
+    "lerna",
+    "hello",
+    "world",
+    "test"
+  ],
+  "author": "cesce <31965498+cesce@users.noreply.github.com>",
+  "homepage": "https://github.com/cesce/lerna-test#readme",
+  "license": "ISC",
+  "main": "lib/hello-world.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cesce/lerna-test.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/cesce/lerna-test/issues"
+  }
+}
